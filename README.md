@@ -96,4 +96,4 @@ Implementations and examples in DimensionalityReduction/ folder.
 
 Scikit-learn documentation
 
-Standard machine learning textbooks and tutorials for algorithm theory.
+reachout -- officialgaurav0408@gmail.com
